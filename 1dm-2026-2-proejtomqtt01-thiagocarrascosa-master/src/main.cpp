@@ -22,7 +22,7 @@
 #include <LiquidCrystal_I2C.h>
 #include "led.h"
 #include "botao.h"
-
+//.
 // Configuração do display LCD I2C (endereço 0x27, 20 colunas e 4 linhas)
 LiquidCrystal_I2C lcd(0x27, 20, 4);
 
